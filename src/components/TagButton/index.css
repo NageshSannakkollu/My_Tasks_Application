@@ -1,0 +1,10 @@
+.tags-list-container {
+  list-style-type: none;
+  margin-top: 5px;
+  margin-right: 5px;
+}
+.tag-button {
+  padding: 5px 10px;
+  border-radius: 14px;
+  background-color: transparent;
+}
